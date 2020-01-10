@@ -1,0 +1,4 @@
+Water= resname "SOL" and name "OW" ;
+between= Water and  z > 15.5 ;
+between;
+
