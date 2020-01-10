@@ -18,6 +18,6 @@ File Descriptions:
 
 Work Flow:
 
-Execute bash file by ./trj_generate.sh and keep choosing the desired index (usually 0 for the whole system) untill the whole script finished for the whole trajectory. Finally Find the atomnumber file to get the number of water in different frames in the region we specified and calculate flux as Flux_Workbook.xlsx.
+Execute bash file by ./trj_generate.sh and keep choosing the desired index (usually 0 for the whole system) untill the whole script finished for the whole trajectory. Finally Find the atomnumber file to get the number of water in different frames in the region we specified by (selection.dat) and calculate flux as Flux_Workbook.xlsx.
 
 
