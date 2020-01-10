@@ -12,5 +12,6 @@ index.ndx ↦ index file to comple MD simulation used by trj_generate.sh
 
 
 atomnumber ↦ Output including the frame number of the trajectory and the number of water atoms in our specified regions
+Flux_Workbook.xlsx ↦ Calculation of flux from the atomnumber 
 
 
