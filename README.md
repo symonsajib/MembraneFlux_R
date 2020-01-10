@@ -1,6 +1,6 @@
 # WaterFlux_R
 
-Find the water flux passing through membrane at different pressure: 
+To find the water flux passing through membrane at different pressure (from non-equilibrium Molecular Dynamics simulation): 
 
 File Descriptions: 
 1. trj_generate.sh ↦ Bash file to execute to automate water flux calculation over the simulation trajectories 
